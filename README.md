@@ -1,0 +1,2 @@
+# GenericStudy
+in class
